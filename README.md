@@ -1,7 +1,6 @@
 # sistema-cadastro
 
-
-
+Site logável com um sistema de cadastro de fornecedores e produtos para fins __EDUCATIVOS__
 
 # CRIAÇÃO DA DATABASE USADA:
 
